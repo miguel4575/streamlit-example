@@ -7,3 +7,5 @@ plotly
 pymysql
 streamlit-tags
 Pillow
+nltk
+nltk.download('stopwords')
